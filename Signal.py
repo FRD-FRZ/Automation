@@ -58,13 +58,13 @@ class Analog():
 
     def Signal_force(self,address_value, signal_value, force=False):
         if not force:
+            self.force = force
             self.Signal_update(address_value)
-            print("Update")
+            #print("Update")
         elif force == True:
             self.value = signal_value
         self.force = force
         
-
     def Scale(self, Y0, Y1, X0, X1):
         m = ( Y1 - Y0 )/ (X1 - X0)
         return m*(self.value - X0 )+ Y0
