@@ -1,0 +1,13 @@
+ID,Name,Signal Type,IO Type,Node Address,Data Address,Physical Range,Unit,Comment
+1,“LS100”,“0-24V”,“Digital_Input”,“192.168.1.100”,“M1_DI1”,'','',“NO-Left door close limit switch”
+2,“LS101”,“0-24V”,“Digital_Input”,“192.168.1.100”,“M1_DI2”,'','',“NO-Left door half open limit switch”
+3,“LS102”,“0-24V”,“Digital_Input”,“192.168.1.100”,“M1_DI3”,'','',“NO-Left door open limit switch”
+4,“LS103”,“0-24V”,“Digital_Input”,“192.168.1.100”,“M1_DI4”,'','',“NO-Right door close limit switch”
+5,“LS104”,“0-24V”,“Digital_Input”,“192.168.1.100”,“M1_DI5”,'','',“NO-Right door half open limit switch”
+6,“LS105”,“0-24V”,“Digital_Input”,“192.168.1.100”,“M1_DI6”,'','',“NO-Right door Open limit switch”
+7,“”,“0-24V”,“Digital_Input”,“192.168.1.100”,“M1_DI7”,'','',“Spare”
+8,“”,“0-24V”,“Digital_Input”,“192.168.1.100”,“M1_DI8”,'','',“Spare”
+9,“SV100”,“0-24V”,“Digital_Output”,“192.168.1.100”,“M2_DO1”,'','',“NO-Left door close solenoid valve”
+10,“SV101”,“0-24V”,“Digital_Output”,“192.168.1.100”,“M2_DO2”,'','',“NO-Left door open solenoid valve”
+11,“SV102”,“0-24V”,“Digital_Output”,“192.168.1.100”,“M2_DO3”,'','',“NO-Left door close solenoid valve”
+12,“SV103”,“0-24V”,“Digital_Output”,“192.168.1.100”,“M2_DO4”,'','',“NO-Left door close solenoid valve”
