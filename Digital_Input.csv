@@ -1,0 +1,9 @@
+ID,Name,Type,Address,Status
+1,“PHCWRK”,NC,“DI0.0”,
+2,“PHCEMR”,NC,“DI0.1”,
+3,,,“DI0.2”,
+4,,,“DI0.3”,
+5,,,“DI0.4”,
+6,,,“DI0.5”,
+7,,,“DI0.6”,
+8,,,“DI0.7”,
